@@ -5,7 +5,7 @@
             "years_of_experience": 30,
             "num_of_recipes": 200,
             "likes": 50000,
-            "photo_url": "https://example.com/photo1.jpg",
+            "photo_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
             "description": "A beautiful sunset over the ocean"
         },
         {
@@ -14,7 +14,7 @@
             "years_of_experience": 25,
             "num_of_recipes": 150,
             "likes": 35000,
-            "photo_url": "https://example.com/photo2.jpg",
+            "photo_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
             "description": "A majestic mountain peak covered in snow"
         },
         {
@@ -23,7 +23,7 @@
             "years_of_experience": 20,
             "num_of_recipes": 100,
             "likes": 25000,
-            "photo_url": "https://example.com/photo3.jpg",
+            "photo_url": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
             "description": "A close-up of a blooming flower"
         },
         {
@@ -32,7 +32,7 @@
             "years_of_experience": 15,
             "num_of_recipes": 75,
             "likes": 20000,
-            "photo_url": "https://example.com/photo4.jpg",
+            "photo_url": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
             "description": "A city skyline at night"
         },
         {
@@ -41,7 +41,7 @@
             "years_of_experience": 10,
             "num_of_recipes": 50,
             "likes": 15000,
-            "photo_url": "https://example.com/photo5.jpg",
+            "photo_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
             "description": "A colorful plate of pasta"
         },
         {
@@ -50,7 +50,7 @@
             "years_of_experience": 5,
             "num_of_recipes": 25,
             "likes": 10000,
-            "photo_url": "https://example.com/photo6.jpg",
+            "photo_url": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
             "description": "A sizzling steak on the grill"
         }
     ]
