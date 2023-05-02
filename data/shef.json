@@ -1,0 +1,57 @@
+ [
+        {
+            "id": "1",
+            "name": "Gordon Ramsay",
+            "years_of_experience": 30,
+            "num_of_recipes": 200,
+            "likes": 50000,
+            "photo_url": "https://example.com/photo1.jpg",
+            "description": "A beautiful sunset over the ocean"
+        },
+        {
+            "id": "2",
+            "name": "Jamie Oliver",
+            "years_of_experience": 25,
+            "num_of_recipes": 150,
+            "likes": 35000,
+            "photo_url": "https://example.com/photo2.jpg",
+            "description": "A majestic mountain peak covered in snow"
+        },
+        {
+            "id": "3",
+            "name": "Ina Garten",
+            "years_of_experience": 20,
+            "num_of_recipes": 100,
+            "likes": 25000,
+            "photo_url": "https://example.com/photo3.jpg",
+            "description": "A close-up of a blooming flower"
+        },
+        {
+            "id": "4",
+            "name": "Anthony Bourdain",
+            "years_of_experience": 15,
+            "num_of_recipes": 75,
+            "likes": 20000,
+            "photo_url": "https://example.com/photo4.jpg",
+            "description": "A city skyline at night"
+        },
+        {
+            "id": "5",
+            "name": "Giada De Laurentiis",
+            "years_of_experience": 10,
+            "num_of_recipes": 50,
+            "likes": 15000,
+            "photo_url": "https://example.com/photo5.jpg",
+            "description": "A colorful plate of pasta"
+        },
+        {
+            "id": "6",
+            "name": "Bobby Flay",
+            "years_of_experience": 5,
+            "num_of_recipes": 25,
+            "likes": 10000,
+            "photo_url": "https://example.com/photo6.jpg",
+            "description": "A sizzling steak on the grill"
+        }
+    ]
+
