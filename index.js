@@ -16,18 +16,11 @@ app.get('/recipe', (req,res)=>{
 })
 app.get('/shef/:id', (req,res)=>{
   const id = req.params.id ;
-  console.log(id);
-  const selectShef = shef.find(n => n.id === id)
+ 
+  const selectShef = shef.find(data => data.id === id)
   res.send(selectShef)
 })
-app.get('/recipe/:id' , (req, res) =>{
-  const id = req.params.id;
-    console.log(id)
-      const food = recipe.filter(f => f.category_id === id);
-      res.send(food)
-  }
 
-)
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
